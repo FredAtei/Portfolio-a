@@ -1,10 +1,12 @@
 body{
-  background-color: sandybrown;
+  background-image: url(/image/lais.jpg);
 }
 
 .info{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 17px;
+  font-weight: bolder;
+  color: #f1f1f1;
 }
 
 .bar{
