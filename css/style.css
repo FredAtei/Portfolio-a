@@ -1,0 +1,12 @@
+.first-text{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+ body{
+   background-image: url(/image/web.gif);
+   background-size: cover;
+   background-attachment: fixed;
+
+ }
