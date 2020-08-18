@@ -1,6 +1,6 @@
 The Star And Thank Author License (SATA)
 
-Copyright (c) [Fred Atei](https://github.com/FredAtei) <akamaatei@gmail.com>
+Copyright (c) [Fred Atei](https://github.com/FredAtei/Portfolio-a/blob/master/LICENSE.md) <akamaatei@gmail.com>
 
 Project Url: https://github.com/FredAtei/My-First-Webpage.git
 
