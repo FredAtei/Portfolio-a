@@ -42,5 +42,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## [License](https://github.com/FredAtei/Portfolio-a/blob/master/LICENSE.md)
 
-MIT © [Fred Atei ](https://github.com/FredAtei)
+[MIT](LICENSE.md)
 
