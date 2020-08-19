@@ -2,14 +2,14 @@
 <table>
 <tr>
 <td>
-  A webpage is a hypertext document connected to the World Wide Web.
+This is a Portfolio website containing information about me and a list of my projects. 
 </td>
 </tr>
 </table>
 
 
 ## Demo
-Here is a working live demo : http://127.0.0.1:5500/index.html
+Here is a working live demo : https://fredatei.github.io/Portfolio-a/
 
 
 ## [Usage](https://fredatei.github.io/Portfolio-a/) 
@@ -36,7 +36,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Built with 
 
-- [jQuery - HTML](https://www.w3schools.com/html/default.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
+- [WSschools - HTML](https://www.w3schools.com/html/default.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
 - [Visual Studio Code](https://code.visualstudio.com/) - Extensive list of components and  Bundled Javascript plugins.
 
 
